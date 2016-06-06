@@ -1,2 +1,5 @@
 # hello-world
-learning-projecct
+learning-project
+HOPE
+FEAR
+DEATH
